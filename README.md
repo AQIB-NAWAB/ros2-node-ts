@@ -70,48 +70,6 @@ Open a second terminal:
 npm run start:sub
 ```
 
-You should see messages being published and received on the `chatter` topic.
-
+You should see messages being published and received in the terminal.
 ---
 
-### 📘 Topic Details
-
-- **Topic Name**: `/chatter`
-- **Message Type**: `std_msgs/msg/String`
-- **Publisher Node**: `talker_node`
-- **Subscriber Node**: `listener_node`
-
----
-
-### 💡 Bonus
-
-Want to build a ROS 2-powered Express API with real-time robotics control? Extend this base project and add routes to publish/subscribe dynamically!
-
----
-
-### 🛠️ Dev Scripts
-
-```bash
-# Build TS to JS
-npm run build
-
-# Run publisher in TS
-npm run start:pub
-
-# Run subscriber in TS
-npm run start:sub
-```
-
----
-
-### 🧠 Credits
-
-Built with ❤️ by [Aqib Nawab](https://github.com/AQIB-NAWAB)
-
----
-
-### 📜 License
-
-MIT
-```
-```
