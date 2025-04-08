@@ -43,7 +43,7 @@ npm install
 Make sure ROS 2 is properly installed and sourced:
 
 ```bash
-source /opt/ros/humble/setup.bash
+source /opt/ros/jazzy/setup.bash
 ```
 
 #### 3. Build TypeScript (optional, for compiled output)
