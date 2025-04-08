@@ -1,10 +1,4 @@
-Sure thing, Aqib! Here's a clean and beginner-friendly **`README.md`** tailored for your **ROS 2 + Node.js + TypeScript** project:
 
----
-
-### `README.md`
-
-```md
 # 🤖 ROS 2 Node.js TypeScript Example
 
 This project demonstrates a simple ROS 2 publisher and subscriber setup using **Node.js** and **TypeScript** via [`rclnodejs`](https://github.com/RobotWebTools/rclnodejs). Great for learning how to bridge JavaScript-based applications with the powerful ROS 2 ecosystem.
@@ -120,12 +114,4 @@ Built with ❤️ by [Aqib Nawab](https://github.com/AQIB-NAWAB)
 
 MIT
 ```
-
----
-
-Let me know if you'd like to add:
-- Docker support
-- Express API to trigger ROS actions
-- Multi-topic or custom message handling
-
-Happy hacking with ROS + TS! 🧠💻
+```
